@@ -1,5 +1,6 @@
 # BambangShop Receiver App
 Tutorial and Example for Advanced Programming 2024 - Faculty of Computer Science, Universitas Indonesia
+### Madeline Clairine Gultom - 2306207846 - ADPRO A
 
 ---
 
